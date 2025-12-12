@@ -7,6 +7,24 @@ This appendix exists to ensure consistent interpretation by executives, contract
 
 This appendix is explanatory, not technical.
 
+E.X Adjacent Civil Applications (Illustrative, Non-Exhaustive)
+
+While Event-First UAV is presented in this repository as a general-purpose awareness primitive, the same architectural pattern may be applicable to non-military domains where event notification is more critical than continuous connectivity or persistent monitoring.
+
+One illustrative example is emergency services and remote-area awareness, such as national parks, wilderness corridors, or other environments where cellular coverage is limited or unavailable. In these contexts, an unattended, event-triggered system may provide a simple mechanism to notify officials that an anomalous or emergent condition has occurred, without requiring continuous human presence or persistent surveillance infrastructure.
+
+In such applications, the system’s value lies in:
+
+signaling that attention is required in an otherwise disconnected area
+
+operating passively until an event occurs
+
+avoiding reliance on continuous communications
+
+minimizing cost to enable broad, sparse deployment
+
+This repository does not define civil deployment models, operating procedures, or response workflows. Any non-military application, including emergency or public-safety use, would be defined, implemented, and governed entirely by the adopting organization.
+
 ---
 
 ## E.1 Executive Summary
