@@ -1,0 +1,34 @@
+# License
+
+This repository is provided for research, evaluation, and commercial implementation under the following principles:
+
+## Permissions
+- Non-exclusive use is permitted
+- Modification and derivative works are permitted
+- Commercialization is permitted
+- Independent implementations are permitted
+
+## Attribution
+Attribution to the original work is required in derivative implementations.
+
+## Royalty
+A small royalty may apply upon commercial deployment or sale of derivative systems.  
+The intent is low-friction adoption, not restriction.
+
+## Warranty
+This work is provided "as is" with no warranty or guarantee of fitness for any purpose.
+
+## Responsibility
+Downstream organizations assume full responsibility for:
+- implementation
+- integration
+- compliance
+- certification
+- deployment
+- operational use
+
+The originating author(s) do not control or endorse downstream implementations.
+
+---
+
+This license is intentionally simple to avoid unnecessary barriers to adoption.
