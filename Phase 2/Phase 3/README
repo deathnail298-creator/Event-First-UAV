@@ -1,12 +1,12 @@
 Phase 3 — Execution & Commercialization
 Purpose
 
-Phase 3 defines where execution begins and where money changes hands for the Event-First UAV architecture.
+Phase 3 defines when theory becomes execution and when use becomes commercial for the Event-First UAV architecture.
 
-Everything prior to Phase 3 (Phase 0, Phase 1, Phase 2) exists to support reasoning, feasibility framing, and architectural clarity.
-Phase 3 is the boundary where theory turns into real-world action.
+Phase 0, Phase 1, and Phase 2 are about understanding.
+Phase 3 is the legal boundary where real-world use begins.
 
-If you cross this boundary without a license, you are out of bounds.
+If you cross this boundary without a license, you are out of scope.
 
 What Phase 3 Is
 
@@ -14,56 +14,98 @@ Phase 3 is:
 
 Authorization to execute the Event-First UAV architecture
 
-The legal and commercial transition point
+The commercial trigger point
 
-The point at which theory may be applied to reality
+The only phase that grants permission to build, test, deploy, or sell
 
-The sole place where execution rights are granted
-
-Phase 3 is not additional technical content.
-It is permission.
+Phase 3 is not additional technical material.
+It is permission and terms.
 
 Relationship to Other Phases
 
 Phase 0 — Permission to exist (problem framing, non-claims)
 
-Phase 1 — Permission to test (bounded prototypes, assumptions)
+Phase 1 — Permission to test concepts in principle
 
 Phase 2 — Permission to think (theory-only, TEL-1.0)
 
-Phase 3 — Permission to execute (this phase)
+Phase 3 — Permission to execute and commercialize
 
 Each phase is legally independent.
 
-Possession of Phase 0, Phase 1, or Phase 2 materials does not grant execution rights.
+Access to earlier phases does not grant execution or commercial rights.
 
-Execution Definition (Non-Negotiable)
+Definition of Execution
 
-For purposes of this repository, execution includes any of the following:
+For this repository, execution includes any action that applies the architecture to reality, including but not limited to:
 
 Building or prototyping hardware
 
-Flight testing or ground testing
+Ground testing or flight testing
 
 Simulation intended to inform implementation
 
 Integration into an existing UAV system
 
-Use in proposals, bids, grants, or contracts
-
-Commercial or government deployment
+Use in proposals, bids, or funded programs
 
 Internal programs intended to lead to deployment
 
-Derivative works intended for real-world use
+Field trials, demonstrations, or pilots
 
-Intent does not matter. Outcome controls.
+Creation of derivative systems intended for real-world use
 
-If the work touches reality, it is execution.
+Intent is irrelevant. Outcome controls.
+
+If it affects real-world decisions or hardware, it is execution.
+
+Commercial vs Non-Commercial Use
+Non-Commercial Use (No License Required)
+
+The following are explicitly non-commercial and permitted without a Phase 3 license:
+
+Reading or reviewing Phase 3 materials
+
+Internal discussion or education
+
+Business case evaluation or budgeting
+
+Architectural comparison to other systems
+
+Academic or informal critique
+
+Conceptual diagrams or summaries with no execution intent
+
+High-level references that do not inform a build
+
+These activities do not authorize execution.
+
+Commercial Use (License Required)
+
+The following are considered commercial use and require a Phase 3 Execution License:
+
+Building, testing, or deploying a UAV based on this architecture
+
+Using the architecture in any paid or funded program
+
+Inclusion in proposals, grants, or contracts
+
+Government, defense, or public-sector deployment
+
+Offering products or services derived from this architecture
+
+Internal R&D intended to support a commercial or operational system
+
+Demonstrations intended to secure funding or customers
+
+Derivative works intended for real-world application
+
+Profit is not required to trigger commercialization.
+Execution alone is sufficient.
 
 Execution License
 
-Any execution of the Event-First UAV architecture requires a Phase 3 Execution License.
+Any execution or commercial use requires a Phase 3 Execution License.
 
 Base terms:
 
@@ -71,63 +113,31 @@ Execution license fee: $5,000 USD (one-time)
 
 Grants permission to execute Phase 2 theory
 
-Covers internal use or external deployment
+Covers internal, government, or commercial use
 
-Additional scope, exclusivity, or royalty terms (if any) are negotiated separately
+Additional scope, exclusivity, or royalty terms are negotiated separately
 
 Licenses are granted in writing only
 
 No implied licenses exist.
 
-What the License Buys You
+What the License Buys
 
 The execution license replaces:
 
 Internal architectural reinvention
 
-Months of CONOPS debate
+Event-trigger logic debates
 
-Event-trigger logic argumentation
+Sensor-first vs platform-first churn
 
-Failure-mode philosophy disputes
+Failure-mode philosophy arguments
 
-Sensor-vs-platform priority churn
+CONOPS deadlock
 
-You are paying to skip indecision, not to buy hardware.
+You are paying to skip architectural indecision, not to buy hardware or performance guarantees.
 
-Execution risk remains entirely yours.
-
-What Counts as Commercialization
-
-The following are considered commercialization and require a Phase 3 execution license:
-
-Selling systems, subsystems, or services based on this architecture
-
-Including the architecture in paid contracts or programs
-
-Using the architecture to support revenue-generating operations
-
-Government or defense program use
-
-Integration into products offered to customers
-
-Commercialization does not require profit to trigger licensing.
-
-What Does Not Count as Commercialization
-
-The following do not require a Phase 3 execution license:
-
-Reading or reviewing Phase 3 text
-
-Internal business evaluation
-
-Budgetary or program planning
-
-Non-executing academic discussion
-
-Conceptual comparison to other architectures
-
-Execution is the trigger, not curiosity.
+All execution risk remains with the licensee.
 
 No Warranty
 
@@ -145,21 +155,15 @@ fitness for purpose
 
 mission success
 
-All execution risk is assumed by the licensee.
-
 Limitation of Liability
 
-IN NO EVENT SHALL THE AUTHOR OR LICENSOR BE LIABLE FOR ANY DAMAGES ARISING FROM EXECUTION OR MISUSE OF THIS ARCHITECTURE, INCLUDING DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES.
+IN NO EVENT SHALL THE AUTHOR OR LICENSOR BE LIABLE FOR ANY DAMAGES ARISING FROM USE, EXECUTION, OR MISUSE OF THIS ARCHITECTURE.
 
 Termination
 
 This license terminates automatically upon violation.
 
-Upon termination:
-
-All execution rights immediately cease
-
-Continued use constitutes infringement
+Upon termination, all execution and commercial rights immediately cease.
 
 Contact
 
@@ -170,4 +174,4 @@ Nathan Rudloff
 
 Plain-English Summary
 
-Phase 3 is where thinking stops and doing begins. If you want to build, test, deploy, or sell an Event-First UAV system, you need an execution license. The fee replaces months of internal architectural churn and lets you move directly to real hardware and flight work.
+Phase 3 is the line between thinking and doing. Reading and discussion are free. Building, testing, deploying, or using this architecture in any funded or operational context requires a paid execution license. The license exists to replace months of internal architectural churn with a clear, bounded permission to move forward.
