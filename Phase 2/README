@@ -1,0 +1,85 @@
+# Phase 2 — Theory Exploration
+
+## Scope and Legal Status
+
+Phase 2 contains **theory-only materials**. These materials exist to explore limits, stress assumptions, surface failure extremes, and map conceptual boundaries **without authorizing execution**.
+
+Phase 2 is **legally and functionally separate** from Phase 0 and Phase 1.
+
+* Phase 0 / Phase 1: Permission to exist / permission to test (under their own licenses)
+* **Phase 2: Permission to think — not permission to build**
+
+All Phase 2 materials are governed by a **Theory-Only License (TEL-1.0)** that explicitly **prohibits execution** without a separate execution license defined in Phase 3.
+
+Reading Phase 2 does not expand Phase 0 or Phase 1 rights.
+
+---
+
+## What Phase 2 Is
+
+Phase 2 is where uncertainty is pushed *harder*, not resolved.
+
+It exists to:
+
+* Stress assumptions made in earlier phases
+* Explore failure extremes and pathological cases
+* Identify constraint violations and boundary conditions
+* Compare alternate archetypes without committing to one
+* Surface long-tail risks that are easy to miss during early design
+
+Phase 2 answers questions like:
+
+* *Under what conditions does this idea fail badly?*
+* *What assumptions break first?*
+* *Where are the legal, physical, or operational cliffs?*
+* *What would a skeptic attack?*
+
+It does **not** answer:
+
+* How to build it
+* How to test it
+* How to simulate it for implementation
+* How to deploy it
+
+---
+
+## What Phase 2 Is Not
+
+Phase 2 is **not**:
+
+* A design package
+* A prototype definition
+* An implementation guide
+* A proposal-ready system
+* An authorization to simulate, test, or build
+
+Any use that crosses into execution territory requires a **separate execution license**.
+
+---
+
+## License Boundary (Important)
+
+Phase 2 materials are governed by **Theory Exploration License (TEL-1.0)**.
+
+Key implications:
+
+* Reading, critique, and internal discussion are allowed
+* Execution of any kind is **explicitly prohibited** without a paid execution license
+* Intent does not matter; outcome controls
+* This license is **not open source**
+
+See `LICENSE_TEL-1.0.md` for full terms.
+
+---
+
+## Executive Summary (Value Framing)
+
+> **Audience:** Executives, Program Managers, Finance, Risk
+>
+> **Scope Rule:** This section explains *where value comes from* in time, money, and risk terms. It does **not** claim performance numbers or guarantee savings. All values are directional and comparative.
+
+This system is **not a productivity asset**.
+
+It is a **risk-reduction and cost-avoidance asset**.
+
+Its value comes from preventing expensive downstream problems rather than
