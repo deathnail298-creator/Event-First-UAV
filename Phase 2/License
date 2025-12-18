@@ -1,0 +1,54 @@
+# Theory Exploration License (TEL-1.0)
+
+## 1. Purpose
+
+This license governs access to and use of **theory-only materials** contained in this repository section ("Phase 2"). These materials are provided solely to support reading, reasoning, critique, and conceptual exploration.
+
+This license is intentionally **not** an open-source license.
+
+---
+
+## 2. Definitions
+
+* **Theory Materials**: All documents, diagrams, calculations, text, and reasoning contained in this Phase 2 directory.
+* **Execution**: Any action that applies Theory Materials to real-world activity, including but not limited to: building, prototyping, testing, simulating, manufacturing, deploying, integrating, proposing, contracting, or funding a physical or operational system.
+* **Licensee**: Any individual or entity accessing or using the Theory Materials.
+
+---
+
+## 3. Permitted Uses (Free)
+
+The following uses are permitted **without payment or additional permission**:
+
+* Reading and reviewing the Theory Materials
+* Private reasoning and internal discussion
+* Academic or informal critique
+* Independent verification of logic or math
+* Referencing concepts at a high level without implementation
+
+These uses do **not** authorize execution.
+
+---
+
+## 4. Prohibited Uses Without Execution License
+
+The following are **explicitly prohibited** without a separate paid execution license:
+
+* Building or prototyping any system described or implied
+* Laboratory testing or field testing
+* Simulation for the purpose of implementation
+* Use in proposals, bids, grants, or contracts
+* Integration into other designs or systems
+* Commercial or government deployment
+* Derivative works intended for execution
+
+Intent is irrelevant; outcome controls.
+
+---
+
+## 5. Execution License Requirement
+
+Any form of execution requires the purchase of a separate **Execution License** prior to execution.
+
+* Base execution license fee: **$5,000 USD**
+* Additional terms, scope, and royalties (if any) are negotiated separ
