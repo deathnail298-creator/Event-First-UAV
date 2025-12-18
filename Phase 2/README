@@ -9,7 +9,7 @@ Phase 2 is **legally and functionally separate** from Phase 0 and Phase 1.
 * Phase 0 / Phase 1: Permission to exist / permission to test (under their own licenses)
 * **Phase 2: Permission to think — not permission to build**
 
-All Phase 2 materials are governed by a **Theory-Only License (TEL-1.0)** that explicitly **prohibits execution** without a separate execution license defined in Phase 3.
+All Phase 2 materials are governed by a **Theory-Only License (TEL‑1.0)** that explicitly **prohibits execution** without a separate execution license defined in Phase 3.
 
 Reading Phase 2 does not expand Phase 0 or Phase 1 rights.
 
@@ -59,7 +59,7 @@ Any use that crosses into execution territory requires a **separate execution li
 
 ## License Boundary (Important)
 
-Phase 2 materials are governed by **Theory Exploration License (TEL-1.0)**.
+Phase 2 materials are governed by **Theory Exploration License (TEL‑1.0)**.
 
 Key implications:
 
@@ -80,6 +80,119 @@ See `LICENSE_TEL-1.0.md` for full terms.
 
 This system is **not a productivity asset**.
 
-It is a **risk-reduction and cost-avoidance asset**.
+It is a **risk‑reduction and cost‑avoidance asset**.
 
-Its value comes from preventing expensive downstream problems rather than
+Its value comes from preventing expensive downstream problems rather than creating new output.
+
+---
+
+## Cost Categories Affected
+
+### 1. Early‑Phase Reinvention Cost
+
+**Baseline reality:**
+
+* Internal teams re-derive feasibility repeatedly
+* Constraint logic and failure tolerance are re-argued each time
+* Early analysis consumes senior engineering time before hardware exists
+
+**Value mechanism:**
+
+* Phase 2 front‑loads assumption stress and failure logic
+* Known cliffs are documented before execution begins
+
+**Executive translation:**
+
+* Reduced non‑recoverable early‑phase spend
+* Fewer false starts before hardware work begins
+
+---
+
+### 2. Schedule Risk
+
+**Baseline reality:**
+
+* Unexamined assumptions surface late
+* Late discoveries force replans and resets
+
+**Value mechanism:**
+
+* Phase 2 forces confrontation with worst‑case paths early
+* Execution begins with fewer unknown‑unknowns
+
+**Executive translation:**
+
+* Lower probability of schedule resets
+* More predictable execution timelines
+
+---
+
+### 3. Integration and Certification Burden
+
+**Baseline reality:**
+
+* Poorly bounded concepts expand certification scope
+* Review cycles lengthen when failure behavior is unclear
+
+**Value mechanism:**
+
+* Explicit constraint and failure documentation limits scope creep
+* Passive or ignorable behaviors are identified early
+
+**Executive translation:**
+
+* Reduced review cycles
+* Lower documentation and verification overhead
+
+---
+
+### 4. Capital Allocation Discipline
+
+**Baseline reality:**
+
+* Capital is consumed validating ideas that later fail structurally
+* Hardware spend precedes conceptual certainty
+
+**Value mechanism:**
+
+* Phase 2 absorbs analytical risk before capital is committed
+* Execution decisions are gated intentionally
+
+**Executive translation:**
+
+* Capital preserved for work that matters
+* Fewer sunk‑cost paths
+
+---
+
+## Executive Interpretation
+
+Licensing replaces a large, uncertain early‑phase internal effort with a **small, explicit execution gate**.
+
+* Analysis risk is front‑loaded and already absorbed
+* Execution risk remains with the licensee (as it should)
+* Capital is preserved for hardware and testing
+
+This is **not** a technology purchase.
+
+It is a **time‑avoidance and risk‑avoidance decision**.
+
+---
+
+## Phase Discipline Note
+
+This Phase 2 repository intentionally avoids:
+
+* Performance claims
+* ROI calculations
+* Dollar guarantees
+* Implementation guidance
+
+Those belong only in execution‑authorized phases.
+
+---
+
+## Plain‑English Summary
+
+Phase 2 exists to stress ideas before money is spent. It reduces risk, avoids early reinvention, and preserves capital by forcing hard questions to be answered before execution begins. It allows thinking without authorizing building.
+
